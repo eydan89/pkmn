@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.app.pkmn.PkmnApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.282 s - in com.app.pkmn.PkmnApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.293 s - in com.app.pkmn.PkmnApplicationTests
