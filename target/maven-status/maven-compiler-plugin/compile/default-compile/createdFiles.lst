@@ -1,0 +1,7 @@
+com\app\pkmn\service\PkmnService.class
+com\app\pkmn\service\PkmnServiceImpl.class
+com\app\pkmn\ServletInitializer.class
+com\app\pkmn\repository\PkmnRepository.class
+com\app\pkmn\controller\PkmnController.class
+com\app\pkmn\PkmnApplication.class
+com\app\pkmn\model\Pkmn.class
